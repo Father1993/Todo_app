@@ -1,4 +1,4 @@
-# My practice in JavaScript (LocalStogage). <br>
+# My practice in JavaScript (localStorage). <br>
 (EN) <br>
   An application written in pure JS. Has 3 pages. Data is correctly saved and loaded from LocalStorage. Written in 6 hours. <br>
 (RU) <br>
